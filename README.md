@@ -8,6 +8,7 @@ Quais são os projetos:
 
 * Singleton - /Singleton <br>
 * Façade - /Façade <br>
+* Strategy - /Strategy <br>
 
 Onde estão os arquivos principais:
 
